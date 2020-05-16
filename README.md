@@ -7,7 +7,7 @@ Link : <a href="https://github.com/amoghj98/MLX90614">https://github.com/amoghj9
 The use of this library is subject to the MIT license.
 <h2><b>Description</b></h2>
 The Melexis MLX90614 is an Infra Red thermometer for noncontact temperature measurements. Both the IR sensitive thermopile detector chip and the signal conditioning ASSP are integrated in the same TO-39 can. The MLX90614 supports a derivative of the I2C bus called SMBus. SMBus was initially meant for low-bandwidth communication between devices on the same motherboard. The MLX90614 supports SMBus communication with clock frequencies ranging from 10kHz to 100kHz. The tech specs of the MLX90614 are as follows:
-<table>
+<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
     <th>Parameter</th>
     <th>Value</th>
